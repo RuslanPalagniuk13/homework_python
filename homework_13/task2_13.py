@@ -1,3 +1,5 @@
+""" Не правильно назвал комит"""
+
 class TriangleExists(Exception):
     def __init__(self, value):
         self.value = value
