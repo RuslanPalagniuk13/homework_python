@@ -11,7 +11,7 @@ class ModelCashMachine:
     __MAX_COMMISSION = 600
     __BONUS_OPERATION = 3
     __BONUS_PERCENT = 1.03
-    __path_save = "C:\\Users\\rlpal\\Desktop\\homework_python\homework_15\\save.json"
+    __path_save = "C:\\Users\\rlpal\\Desktop\\homework_python\\homework_15\\save.json"
 
     def __init__(self, cash=0, counter=0, history=None):
         """
